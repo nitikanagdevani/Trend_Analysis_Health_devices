@@ -32,9 +32,10 @@ FitBuzz collects and analyzes user reviews, marketplace data, and device telemet
 - REST APIs serving processed analytics  
 
 ### Data & Schema
-**Data Sources (examples):**
+**Data Sources:**
 - Survey Responses
 - E-commerce product reviews (publicly available pages / scraped datasets)  
 - Social media mentions (Twitter/X, public forums)  
 - Public/academic datasets on wearables  
   
+
